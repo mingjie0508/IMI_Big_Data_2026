@@ -1,0 +1,1825 @@
+customer_id,label,prediction,explanation
+SYNID0100000485,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100021236,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100036671,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100059315,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100060562,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100075150,0.0,0,Top features: low income
+SYNID0100088505,0.0,0,Top features: low income
+SYNID0100090388,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100093807,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100096061,0.0,0,"Top features: low income, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100102872,0.0,0,Top features: low income
+SYNID0100117701,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100125047,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100132893,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100136442,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100163113,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100165492,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100188433,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100194520,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100197952,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100233347,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100238045,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100244693,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0100247065,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100255939,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100257772,0.0,0,"Top features: low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0100263641,0.0,0,"Top features: low income, low channel_debit_volume, low channel_credit_volume"
+SYNID0100312479,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100313335,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume"
+SYNID0100320080,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0100329378,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0100346667,0.0,1,"High transaction to income ratio. Top features: high income, high sum_amt_total, high channel_credit_volume"
+SYNID0100348654,0.0,0,Top features: low sum_amt_total
+SYNID0100356999,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0100361334,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100386740,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100392981,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100393015,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100400964,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100403533,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100410511,0.0,0,Top features: low income
+SYNID0100417825,0.0,0,Structuring. Top features: low income
+SYNID0100419759,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0100436202,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100436578,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100438728,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100452693,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100454317,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100464320,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100464450,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0100471288,0.0,0,Top features: low income
+SYNID0100476498,0.0,0,Top features: low income
+SYNID0100480794,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100481268,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100485095,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100489261,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0100506549,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100508493,0.0,0,Top features: low income
+SYNID0100516699,0.0,0,Top features: low channel_credit_volume
+SYNID0100521763,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100527405,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0100535488,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100562476,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100573825,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0100588505,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100610172,0.0,0,Top features: low income
+SYNID0100612490,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100621046,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0100622265,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100624214,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100644335,0.0,0,Top features: low income
+SYNID0100653322,0.0,0,Top features: low income
+SYNID0100655798,0.0,0,Top features: low income
+SYNID0100657117,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100658542,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100662190,0.0,0,Top features: low income
+SYNID0100663787,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100665486,0.0,0,Top features: low income
+SYNID0100686442,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100690458,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100690585,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low txn_volume_vs_occupation_median"
+SYNID0100691924,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100718951,0.0,0,Top features: low income
+SYNID0100727657,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100741700,0.0,0,Top features: low income
+SYNID0100742735,0.0,0,Top features: low income
+SYNID0100751190,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100765762,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100768553,0.0,0,Top features: low income
+SYNID0100785770,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100800332,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100821938,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100829885,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100845215,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0100845552,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0100859570,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100861708,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100869060,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100873394,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100876697,0.0,0,Top features: low channel_credit_volume
+SYNID0100891501,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100898515,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100906564,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0100908431,0.0,0,Top features: low income
+SYNID0100912726,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100912833,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0100934201,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100944891,0.0,0,Top features: low income
+SYNID0100957188,1.0,1,Top features: high income
+SYNID0100969296,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100987831,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101000519,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101006767,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0101006900,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101008970,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101009208,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101017738,0.0,0,Top features: low income
+SYNID0101025017,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101051401,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101060462,0.0,0,Top features: low income
+SYNID0101081253,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0101095081,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101119811,0.0,0,
+SYNID0101125562,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0101150580,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101163816,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0101164590,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0101195085,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101220677,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101266181,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101355034,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101368638,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0101373005,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101399902,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101415695,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0101419516,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101421130,1.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0101436278,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101443919,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101444515,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101445146,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101460151,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0101466682,0.0,0,Top features: low income
+SYNID0101471651,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101472402,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101473294,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0101483157,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0101483542,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101498408,0.0,0,"Top features: low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0101509259,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0101530247,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0101538202,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101540525,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101545139,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101551838,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101555287,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101563647,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101572472,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101594969,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101595676,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101638998,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101639444,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101640520,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101641713,0.0,0,Top features: low income
+SYNID0101662648,0.0,0,Top features: low income
+SYNID0101679330,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101716251,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101716527,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total"
+SYNID0101720951,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0101727462,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101733473,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0101735464,0.0,0,Top features: low income
+SYNID0101742534,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101748101,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101759914,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0101789970,0.0,0,"Top features: low income, not satisfied is_unemployed"
+SYNID0101809095,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101812231,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0101826987,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101837116,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0101846216,0.0,0,
+SYNID0101847410,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0101861070,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101861273,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0101861437,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0101868939,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101871347,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101892382,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0101896510,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0101898987,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101904557,0.0,0,
+SYNID0101922420,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0101951944,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101952209,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101981653,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0102032626,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0102039096,0.0,0,Top features: low income
+SYNID0102041322,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102047276,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102051274,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102053582,0.0,0,Top features: low income
+SYNID0102056629,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0102070689,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102091268,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102095191,0.0,0,Top features: low income
+SYNID0102110508,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102116014,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0102121118,0.0,0,Top features: low income
+SYNID0102125407,0.0,0,"Top features: low income, low channel_debit_volume, low channel_credit_volume"
+SYNID0102130054,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0102162708,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102210225,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102215781,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102219754,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102235462,0.0,0,Top features: low income
+SYNID0102288697,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0102293078,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102299337,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102320988,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102329902,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0102345093,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102346407,0.0,0,Top features: low income
+SYNID0102374579,0.0,0,Top features: low income
+SYNID0102378620,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102391614,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102394060,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102397477,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102399425,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume, low n_txn_total, low age"
+SYNID0102404344,0.0,0,Top features: low income
+SYNID0102413123,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102414209,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102414463,0.0,0,Top features: low income
+SYNID0102432608,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume"
+SYNID0102439293,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102457674,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102468863,0.0,0,Top features: low channel_credit_volume
+SYNID0102486291,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102495133,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0102502963,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102511111,0.0,0,Top features: low income
+SYNID0102525933,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102541338,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0102586527,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102637271,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102647424,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0102655494,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0102686451,0.0,1,"High transaction to income ratio. Top features: high income, high sum_amt_total, high channel_credit_volume"
+SYNID0102693481,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102729361,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102729790,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0102735085,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102740319,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102742724,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102776824,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0102778056,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102790321,0.0,0,Top features: low income
+SYNID0102810118,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102835523,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0102838821,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102851514,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102853704,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102865617,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102868287,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102872340,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0102898844,0.0,0,Top features: low income
+SYNID0102899622,0.0,0,"Top features: low sum_amt_total, low n_txn_total, not satisfied is_unemployed"
+SYNID0102924131,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102936309,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102947970,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102968964,0.0,0,Top features: low income
+SYNID0102970672,0.0,0,"Top features: low income, low age"
+SYNID0102976065,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102984929,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0102987536,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume, low n_txn_total"
+SYNID0102987751,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103012892,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103023946,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103024953,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0103031423,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103037429,0.0,0,
+SYNID0103049939,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103055630,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103056066,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103088142,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103097442,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103104284,0.0,0,
+SYNID0103115801,0.0,0,
+SYNID0103139816,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103153328,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103169605,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103174511,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103175044,0.0,0,Top features: low income
+SYNID0103190083,0.0,0,Top features: low channel_credit_volume
+SYNID0103194731,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103206528,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103210921,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103213516,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103216084,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103229035,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103230564,0.0,0,Top features: low income
+SYNID0103233499,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103241190,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103249136,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103256605,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0103262651,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103262808,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103272779,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103274975,0.0,0,Top features: low income
+SYNID0103279020,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103300216,0.0,0,Top features: low n_txn_total
+SYNID0103311135,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103319919,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103337495,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103359914,0.0,0,
+SYNID0103362006,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0103366063,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103367633,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103413193,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103422409,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0103426177,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103444772,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103448882,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103481793,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0103482772,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103485522,0.0,0,Top features: low income
+SYNID0103503623,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0103506645,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103544591,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103545198,0.0,0,Top features: low income
+SYNID0103550866,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103551044,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103567089,0.0,0,Top features: low income
+SYNID0103578005,0.0,0,Top features: low channel_credit_volume
+SYNID0103583046,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103586188,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103600083,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103606160,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103616412,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103621104,0.0,0,
+SYNID0103626509,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103634808,0.0,0,"Top features: low income, not satisfied is_unemployed"
+SYNID0103643046,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103657640,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0103659836,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103688107,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103693788,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103695193,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103712362,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0103736830,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103749745,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103815921,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103829187,0.0,0,Top features: low income
+SYNID0103839207,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103849472,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0103875208,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103908188,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103918841,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103920810,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103924108,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103926003,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103944180,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103959331,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103964619,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103973462,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103983894,0.0,0,Top features: low channel_credit_volume
+SYNID0103983951,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103988586,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104011970,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104019026,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104024044,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104033417,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104049246,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104052997,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104060587,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104069961,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104073491,0.0,0,Top features: low n_txn_total
+SYNID0104096402,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0104107410,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104117036,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104143174,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104152778,0.0,0,Top features: low channel_credit_volume
+SYNID0104194246,0.0,0,Top features: low income
+SYNID0104210062,0.0,0,
+SYNID0104210533,0.0,0,"Top features: low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104215354,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104223140,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104229086,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104253719,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104254884,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104264177,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0104274943,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104294031,0.0,0,Top features: low income
+SYNID0104294551,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104300314,0.0,0,Top features: low income
+SYNID0104303999,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104320132,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0104337810,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0104338656,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104347283,0.0,0,
+SYNID0104349621,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0104351402,0.0,0,
+SYNID0104361797,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104365112,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104372071,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104388213,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104397699,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0104397912,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low txn_volume_vs_occupation_median"
+SYNID0104402005,0.0,0,Top features: low income
+SYNID0104427303,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104475565,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104486974,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104498692,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104508954,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0104515436,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104533314,0.0,0,Top features: low channel_credit_volume
+SYNID0104534105,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0104535187,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104542108,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104544128,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104550289,0.0,0,
+SYNID0104550560,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0104561732,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0104569640,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104573393,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104577359,0.0,0,Top features: low income
+SYNID0104632764,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104645363,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104665761,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0104671202,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104697222,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104703400,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0104709954,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104715873,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104718946,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total"
+SYNID0104750690,0.0,0,Top features: low n_txn_total
+SYNID0104781878,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104817027,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104819614,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0104833954,0.0,0,"Top features: low income, low age"
+SYNID0104838780,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104859272,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0104871187,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104892326,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104899605,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104916802,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104923804,0.0,0,Top features: low income
+SYNID0104939048,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104946092,0.0,0,Top features: low income
+SYNID0104953210,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0104955821,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105018854,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105028318,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105031157,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0105058742,0.0,0,Top features: low income
+SYNID0105060385,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105068901,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105073216,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0105078391,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105089737,0.0,0,Top features: low income
+SYNID0105101959,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105107705,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105108459,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105108843,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105114292,0.0,0,Top features: low income
+SYNID0105115605,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0105175037,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105185546,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0105190740,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105207658,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105222222,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105235476,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0105239761,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105241952,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0105246944,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105247778,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105248169,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105254461,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105279737,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105281476,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0105297958,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105320974,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105332502,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105363746,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0105374937,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105392811,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105396945,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105408927,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0105409007,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105409946,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105416607,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105418797,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105429404,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0105430242,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105435213,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105439110,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105441567,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105442463,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105446890,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105460851,0.0,0,"Top features: low sum_amt_total, low txn_volume_vs_occupation_median"
+SYNID0105471287,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105474858,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0105483525,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105487023,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105511618,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0105517063,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105518985,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105519864,0.0,0,Top features: low income
+SYNID0105523574,0.0,0,Top features: low income
+SYNID0105535345,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105544912,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105549405,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105554152,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105570835,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0105593361,1.0,1,"High transaction to income ratio, High transaction to occupation median ratio. Top features: high income, high sum_amt_total, high channel_debit_volume, high txn_volume_vs_occupation_median"
+SYNID0105595584,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105597649,0.0,0,Top features: low income
+SYNID0105605898,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105626251,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105644266,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105655298,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105656453,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105671628,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105685244,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105698019,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105699266,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105703083,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105710647,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105715503,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105741023,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0105759255,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low txn_volume_vs_occupation_median"
+SYNID0105764587,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105773088,0.0,0,"Top features: low sum_amt_total, low txn_volume_vs_occupation_median"
+SYNID0105783650,0.0,0,"Top features: low sum_amt_total, low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0105810138,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105817345,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105828735,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105831377,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0105852403,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105860180,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105896268,0.0,0,
+SYNID0105914264,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105926152,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105947382,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105971638,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105971716,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0105974717,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105976167,0.0,0,"Top features: low income, low age"
+SYNID0105978169,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105985656,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105988473,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106000448,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106001660,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106002962,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106022980,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0106033773,0.0,0,
+SYNID0106048900,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106053941,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106070984,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106129658,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0106130647,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0106141683,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0106141714,0.0,0,Top features: low income
+SYNID0106147025,0.0,0,Top features: low income
+SYNID0106165905,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0106166086,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0106194127,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0106201317,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106214725,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106222900,0.0,0,Top features: low channel_credit_volume
+SYNID0106232264,0.0,0,Top features: low income
+SYNID0106240762,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0106244380,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106247521,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume"
+SYNID0106248189,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106249610,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0106293880,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0106303111,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0106308721,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106318770,0.0,0,Top features: low income
+SYNID0106328139,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106329953,0.0,0,Top features: low income
+SYNID0106340872,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106342705,0.0,0,Structuring. Top features: low income
+SYNID0106344327,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0106357306,0.0,0,Top features: low channel_credit_volume
+SYNID0106390012,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106394865,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106402016,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106428660,0.0,0,
+SYNID0106444253,0.0,0,Top features: low n_txn_total
+SYNID0106452716,0.0,0,Top features: low income
+SYNID0106462825,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106469074,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0106490184,0.0,0,Top features: low income
+SYNID0106500268,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0106509099,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106518706,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106523980,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106537127,0.0,0,Top features: low income
+SYNID0106538257,0.0,0,Top features: low income
+SYNID0106542854,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106548077,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106549799,0.0,0,"Top features: low sum_amt_total, low txn_volume_vs_occupation_median"
+SYNID0106552959,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106553841,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106554902,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106564366,0.0,0,Top features: low income
+SYNID0106572779,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0106574716,0.0,0,"Top features: low income, low n_txn_total, low age"
+SYNID0106605764,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106617015,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106623637,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106635947,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106641837,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106645451,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106652309,0.0,1,"High transaction to income ratio. Top features: high income, high sum_amt_total, high channel_credit_volume"
+SYNID0106653697,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0106661715,0.0,0,Top features: low income
+SYNID0106664724,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0106671718,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106695141,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106713726,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106716678,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106717778,0.0,1,"High wire transfers, Frequent wire transfers. Top features: high median_amt_wire, high wire_ratio, high age"
+SYNID0106724091,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106732965,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106764245,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0106780702,0.0,0,Top features: low income
+SYNID0106823538,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106825796,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106826296,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0106833741,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106836328,0.0,0,Top features: low income
+SYNID0106838129,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0106862202,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106871228,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106885037,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0106894557,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106917375,0.0,0,Top features: low income
+SYNID0106918325,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106922465,0.0,0,Top features: low income
+SYNID0106952086,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106977495,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0106991545,0.0,0,Top features: low income
+SYNID0107000956,0.0,0,Top features: low channel_credit_volume
+SYNID0107007068,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107010958,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107012183,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0107019000,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107026206,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107027836,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0107035247,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107043376,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0107058218,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0107066464,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107082171,0.0,0,
+SYNID0107087610,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0107103205,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107134431,0.0,0,
+SYNID0107141408,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107145869,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0107159615,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107162254,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107169680,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107169985,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0107178242,0.0,0,Structuring. Top features: low income
+SYNID0107183018,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107185782,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0107202512,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107204407,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107228791,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107252084,0.0,0,
+SYNID0107286914,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107291566,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107318803,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107334515,1.0,1,"High transaction to occupation median ratio. Top features: high txn_volume_vs_occupation_median, high age"
+SYNID0107335388,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107339124,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107375801,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107403616,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107409175,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107443406,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107446827,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107449488,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0107454374,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0107458311,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107462438,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107464935,1.0,1,"High transaction to income ratio, High transaction to occupation median ratio, High wire transfers, Frequent wire transfers. Top features: high median_amt_wire, high wire_ratio, high income, high txn_volume_vs_occupation_median, high age"
+SYNID0107469897,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0107477605,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107478090,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0107505069,0.0,0,Top features: low income
+SYNID0107509503,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0107511361,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0107511443,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107523153,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107552364,0.0,0,Top features: low income
+SYNID0107563028,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107565904,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0107566475,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107569810,0.0,0,Top features: low income
+SYNID0107587379,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107596396,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0107609207,0.0,0,
+SYNID0107633404,0.0,0,"Top features: low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107643401,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107647547,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107676830,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107677346,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107682697,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0107683006,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107703815,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107707079,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107727889,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0107746772,0.0,0,Top features: low income
+SYNID0107766109,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0107816145,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107824474,0.0,0,Top features: low income
+SYNID0107825951,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107826542,0.0,0,
+SYNID0107828297,0.0,0,Top features: low cv_amt_eft
+SYNID0107832828,1.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0107838303,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107854734,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107888998,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107927723,0.0,0,Top features: low income
+SYNID0107928724,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0107932380,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107945037,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107951126,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107954373,0.0,0,Top features: low income
+SYNID0107956846,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107998273,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108006936,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108026818,0.0,0,Top features: low income
+SYNID0108036051,0.0,0,Top features: low income
+SYNID0108041457,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108048502,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0108049300,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108058623,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0108082283,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108085897,0.0,1,"High transaction to income ratio. Top features: high income, high sum_amt_total, high channel_debit_volume, high channel_credit_volume"
+SYNID0108091332,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0108097843,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0108116147,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108117683,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108122730,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108153022,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108158503,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108181100,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0108195889,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0108195914,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0108203153,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108207202,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0108209280,0.0,0,Top features: low channel_credit_volume
+SYNID0108220654,0.0,0,Top features: low sum_amt_total
+SYNID0108249774,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108253417,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108259070,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108295427,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108310722,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108321024,0.0,0,"Top features: low sum_amt_total, low txn_volume_vs_occupation_median"
+SYNID0108325078,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108328199,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108335542,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108403402,0.0,0,
+SYNID0108413511,0.0,0,Structuring. Top features: low income
+SYNID0108423299,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108428066,0.0,0,Top features: low channel_credit_volume
+SYNID0108437250,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0108474206,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108484204,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108485394,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108487243,0.0,0,Top features: low income
+SYNID0108509674,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0108530587,0.0,0,
+SYNID0108551570,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108559180,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108582985,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0108589834,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108589950,0.0,0,Top features: low income
+SYNID0108619908,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108623675,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0108623691,0.0,0,Top features: low income
+SYNID0108626578,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0108631113,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108634903,0.0,0,Top features: low income
+SYNID0108646125,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108661542,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0108671357,0.0,0,Top features: low income
+SYNID0108676505,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108682306,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108683646,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108687207,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108696301,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108706777,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108713326,0.0,0,Top features: low income
+SYNID0108730048,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0108740866,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108747866,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0108759141,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108769714,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108772273,0.0,0,Top features: low income
+SYNID0108796379,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108820966,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0108843346,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108850119,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108881995,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108894156,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108895446,0.0,0,Top features: low income
+SYNID0108916391,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108937282,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0108944932,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108958094,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108962182,0.0,0,Top features: low income
+SYNID0108970515,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108974294,0.0,0,Top features: low income
+SYNID0108996903,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0109007572,0.0,0,Top features: low income
+SYNID0109021852,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0109031720,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0109032921,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109052526,0.0,0,"Top features: low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0109066724,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109070767,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109077808,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109083503,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0109106739,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109111562,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109114621,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109116433,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109130542,0.0,0,
+SYNID0109156897,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109163412,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109164594,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0109164999,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109166911,0.0,0,
+SYNID0109173381,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109180244,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109183244,0.0,0,"Top features: low income, low channel_debit_volume, low channel_credit_volume"
+SYNID0109190802,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109195398,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109212463,0.0,0,Top features: low income
+SYNID0109214068,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0109214779,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0109220856,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109221876,0.0,0,Top features: low income
+SYNID0109229186,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109235555,0.0,0,Top features: low income
+SYNID0109238534,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109248069,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109291379,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109294524,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109297928,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109300258,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0109302306,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109305223,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0109319576,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109324046,0.0,0,Top features: low income
+SYNID0109328399,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109337075,0.0,0,Top features: low income
+SYNID0109338038,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109350359,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0109355946,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109357499,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109367637,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0109375742,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109379458,0.0,0,Top features: low income
+SYNID0109419019,0.0,0,Top features: low income
+SYNID0109466986,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109471701,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109473923,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109474572,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109480928,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109483662,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0109503355,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0109505596,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109510794,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109512808,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0109514508,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109520194,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109531915,0.0,0,"Top features: low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109547550,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109575397,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109578308,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109583272,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109602889,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109621352,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109633929,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109640764,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109670205,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109693301,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109693460,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109700446,0.0,0,Top features: low income
+SYNID0109708181,0.0,0,
+SYNID0109764965,0.0,0,Top features: low income
+SYNID0109776271,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109776539,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109787636,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109789733,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109810344,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0109823163,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109841178,0.0,0,Top features: low income
+SYNID0109868775,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0109892016,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109911121,0.0,0,Top features: low income
+SYNID0109929699,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109930500,0.0,0,Top features: low income
+SYNID0109980400,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0109994236,0.0,0,Top features: low channel_credit_volume
+SYNID0109995422,0.0,0,Top features: low channel_credit_volume
+SYNID0109996010,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100000485,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100021236,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100036671,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100059315,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100060562,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100075150,0.0,0,Top features: low income
+SYNID0100088505,0.0,0,Top features: low income
+SYNID0100090388,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100093807,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100096061,0.0,0,"Top features: low income, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100102872,0.0,0,Top features: low income
+SYNID0100117701,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100125047,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100132893,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100136442,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100163113,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100165492,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100188433,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100194520,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100197952,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100233347,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100238045,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100244693,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0100247065,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100255939,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100257772,0.0,0,"Top features: low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0100263641,0.0,0,"Top features: low income, low channel_debit_volume, low channel_credit_volume"
+SYNID0100312479,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100313335,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume"
+SYNID0100320080,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0100329378,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0100346667,0.0,1,"High transaction to income ratio. Top features: high income, high sum_amt_total, high channel_credit_volume"
+SYNID0100348654,0.0,0,Top features: low sum_amt_total
+SYNID0100356999,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0100361334,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100386740,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100392981,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100393015,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100400964,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100403533,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100410511,0.0,0,Top features: low income
+SYNID0100417825,0.0,0,Structuring. Top features: low income
+SYNID0100419759,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0100436202,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100436578,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100438728,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100452693,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100454317,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100464320,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100464450,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0100471288,0.0,0,Top features: low income
+SYNID0100476498,0.0,0,Top features: low income
+SYNID0100480794,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100481268,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100485095,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100489261,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0100506549,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100508493,0.0,0,Top features: low income
+SYNID0100516699,0.0,0,Top features: low channel_credit_volume
+SYNID0100521763,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100527405,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0100535488,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100562476,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100573825,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0100588505,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100610172,0.0,0,Top features: low income
+SYNID0100612490,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100621046,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0100622265,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100624214,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100644335,0.0,0,Top features: low income
+SYNID0100653322,0.0,0,Top features: low income
+SYNID0100655798,0.0,0,Top features: low income
+SYNID0100657117,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100658542,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100662190,0.0,0,Top features: low income
+SYNID0100663787,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100665486,0.0,0,Top features: low income
+SYNID0100686442,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100690458,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100690585,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low txn_volume_vs_occupation_median"
+SYNID0100691924,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100718951,0.0,0,Top features: low income
+SYNID0100727657,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100741700,0.0,0,Top features: low income
+SYNID0100742735,0.0,0,Top features: low income
+SYNID0100751190,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100765762,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100768553,0.0,0,Top features: low income
+SYNID0100785770,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100800332,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100821938,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100829885,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100845215,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0100845552,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0100859570,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100861708,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100869060,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100873394,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0100876697,0.0,0,Top features: low channel_credit_volume
+SYNID0100891501,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100898515,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0100906564,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0100908431,0.0,0,Top features: low income
+SYNID0100912726,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100912833,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0100934201,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0100944891,0.0,0,Top features: low income
+SYNID0100957188,1.0,1,Top features: high income
+SYNID0100969296,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0100987831,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101000519,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101006767,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0101006900,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101008970,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101009208,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101017738,0.0,0,Top features: low income
+SYNID0101025017,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101051401,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101060462,0.0,0,Top features: low income
+SYNID0101081253,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0101095081,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101119811,0.0,0,
+SYNID0101125562,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0101150580,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101163816,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0101164590,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0101195085,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101220677,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101266181,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101355034,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101368638,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0101373005,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101399902,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101415695,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0101419516,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101421130,1.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0101436278,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101443919,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101444515,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101445146,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101460151,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0101466682,0.0,0,Top features: low income
+SYNID0101471651,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101472402,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101473294,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0101483157,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0101483542,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101498408,0.0,0,"Top features: low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0101509259,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0101530247,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0101538202,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101540525,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101545139,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101551838,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101555287,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101563647,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101572472,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101594969,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101595676,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101638998,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101639444,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101640520,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101641713,0.0,0,Top features: low income
+SYNID0101662648,0.0,0,Top features: low income
+SYNID0101679330,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101716251,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101716527,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total"
+SYNID0101720951,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0101727462,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101733473,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0101735464,0.0,0,Top features: low income
+SYNID0101742534,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101748101,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101759914,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0101789970,0.0,0,"Top features: low income, not satisfied is_unemployed"
+SYNID0101809095,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101812231,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0101826987,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101837116,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0101846216,0.0,0,
+SYNID0101847410,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0101861070,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101861273,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0101861437,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0101868939,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101871347,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0101892382,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0101896510,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0101898987,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101904557,0.0,0,
+SYNID0101922420,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0101951944,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101952209,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0101981653,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0102032626,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0102039096,0.0,0,Top features: low income
+SYNID0102041322,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102047276,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102051274,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102053582,0.0,0,Top features: low income
+SYNID0102056629,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0102070689,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102091268,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102095191,0.0,0,Top features: low income
+SYNID0102110508,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102116014,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0102121118,0.0,0,Top features: low income
+SYNID0102125407,0.0,0,"Top features: low income, low channel_debit_volume, low channel_credit_volume"
+SYNID0102130054,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0102162708,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102210225,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102215781,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102219754,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102235462,0.0,0,Top features: low income
+SYNID0102288697,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0102293078,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102299337,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102320988,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102329902,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0102345093,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102346407,0.0,0,Top features: low income
+SYNID0102374579,0.0,0,Top features: low income
+SYNID0102378620,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102391614,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102394060,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102397477,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102399425,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume, low n_txn_total, low age"
+SYNID0102404344,0.0,0,Top features: low income
+SYNID0102413123,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102414209,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102414463,0.0,0,Top features: low income
+SYNID0102432608,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume"
+SYNID0102439293,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102457674,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102468863,0.0,0,Top features: low channel_credit_volume
+SYNID0102486291,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102495133,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0102502963,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102511111,0.0,0,Top features: low income
+SYNID0102525933,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102541338,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0102586527,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102637271,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102647424,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0102655494,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0102686451,0.0,1,"High transaction to income ratio. Top features: high income, high sum_amt_total, high channel_credit_volume"
+SYNID0102693481,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102729361,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102729790,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0102735085,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102740319,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102742724,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102776824,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0102778056,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102790321,0.0,0,Top features: low income
+SYNID0102810118,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102835523,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0102838821,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102851514,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0102853704,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102865617,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102868287,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102872340,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0102898844,0.0,0,Top features: low income
+SYNID0102899622,0.0,0,"Top features: low sum_amt_total, low n_txn_total, not satisfied is_unemployed"
+SYNID0102924131,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0102936309,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102947970,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102968964,0.0,0,Top features: low income
+SYNID0102970672,0.0,0,"Top features: low income, low age"
+SYNID0102976065,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0102984929,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0102987536,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume, low n_txn_total"
+SYNID0102987751,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103012892,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103023946,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103024953,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0103031423,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103037429,0.0,0,
+SYNID0103049939,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103055630,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103056066,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103088142,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103097442,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103104284,0.0,0,
+SYNID0103115801,0.0,0,
+SYNID0103139816,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103153328,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103169605,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103174511,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103175044,0.0,0,Top features: low income
+SYNID0103190083,0.0,0,Top features: low channel_credit_volume
+SYNID0103194731,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103206528,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103210921,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103213516,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103216084,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103229035,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103230564,0.0,0,Top features: low income
+SYNID0103233499,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103241190,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103249136,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103256605,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0103262651,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103262808,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103272779,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103274975,0.0,0,Top features: low income
+SYNID0103279020,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103300216,0.0,0,Top features: low n_txn_total
+SYNID0103311135,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103319919,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103337495,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103359914,0.0,0,
+SYNID0103362006,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0103366063,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103367633,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103413193,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103422409,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0103426177,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103444772,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103448882,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103481793,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0103482772,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103485522,0.0,0,Top features: low income
+SYNID0103503623,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0103506645,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103544591,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103545198,0.0,0,Top features: low income
+SYNID0103550866,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103551044,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103567089,0.0,0,Top features: low income
+SYNID0103578005,0.0,0,Top features: low channel_credit_volume
+SYNID0103583046,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103586188,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103600083,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103606160,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103616412,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103621104,0.0,0,
+SYNID0103626509,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103634808,0.0,0,"Top features: low income, not satisfied is_unemployed"
+SYNID0103643046,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103657640,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0103659836,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103688107,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103693788,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103695193,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103712362,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0103736830,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103749745,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103815921,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103829187,0.0,0,Top features: low income
+SYNID0103839207,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0103849472,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0103875208,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103908188,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103918841,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0103920810,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103924108,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103926003,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103944180,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103959331,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103964619,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103973462,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0103983894,0.0,0,Top features: low channel_credit_volume
+SYNID0103983951,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0103988586,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104011970,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104019026,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104024044,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104033417,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104049246,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104052997,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104060587,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104069961,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104073491,0.0,0,Top features: low n_txn_total
+SYNID0104096402,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0104107410,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104117036,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104143174,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104152778,0.0,0,Top features: low channel_credit_volume
+SYNID0104194246,0.0,0,Top features: low income
+SYNID0104210062,0.0,0,
+SYNID0104210533,0.0,0,"Top features: low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104215354,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104223140,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104229086,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104253719,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104254884,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104264177,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0104274943,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104294031,0.0,0,Top features: low income
+SYNID0104294551,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104300314,0.0,0,Top features: low income
+SYNID0104303999,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104320132,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0104337810,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0104338656,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104347283,0.0,0,
+SYNID0104349621,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0104351402,0.0,0,
+SYNID0104361797,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104365112,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104372071,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104388213,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104397699,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0104397912,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low txn_volume_vs_occupation_median"
+SYNID0104402005,0.0,0,Top features: low income
+SYNID0104427303,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104475565,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104486974,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104498692,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104508954,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0104515436,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104533314,0.0,0,Top features: low channel_credit_volume
+SYNID0104534105,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0104535187,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104542108,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104544128,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104550289,0.0,0,
+SYNID0104550560,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0104561732,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0104569640,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104573393,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104577359,0.0,0,Top features: low income
+SYNID0104632764,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104645363,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104665761,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0104671202,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104697222,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104703400,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0104709954,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104715873,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104718946,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total"
+SYNID0104750690,0.0,0,Top features: low n_txn_total
+SYNID0104781878,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104817027,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104819614,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0104833954,0.0,0,"Top features: low income, low age"
+SYNID0104838780,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104859272,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0104871187,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104892326,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104899605,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0104916802,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0104923804,0.0,0,Top features: low income
+SYNID0104939048,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0104946092,0.0,0,Top features: low income
+SYNID0104953210,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0104955821,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105018854,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105028318,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105031157,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0105058742,0.0,0,Top features: low income
+SYNID0105060385,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105068901,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105073216,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0105078391,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105089737,0.0,0,Top features: low income
+SYNID0105101959,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105107705,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105108459,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105108843,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105114292,0.0,0,Top features: low income
+SYNID0105115605,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0105175037,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105185546,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0105190740,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105207658,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105222222,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105235476,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0105239761,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105241952,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0105246944,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105247778,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105248169,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105254461,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105279737,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105281476,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0105297958,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105320974,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105332502,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105363746,0.0,1,"Short hold time. Top features: high channel_credit_volume, high median_hold_time_funds, high n_txn_total"
+SYNID0105374937,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105392811,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105396945,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105408927,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0105409007,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105409946,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105416607,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105418797,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105429404,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0105430242,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105435213,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105439110,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105441567,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105442463,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105446890,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105460851,0.0,0,"Top features: low sum_amt_total, low txn_volume_vs_occupation_median"
+SYNID0105471287,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105474858,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0105483525,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105487023,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105511618,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0105517063,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105518985,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105519864,0.0,0,Top features: low income
+SYNID0105523574,0.0,0,Top features: low income
+SYNID0105535345,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105544912,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105549405,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105554152,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105570835,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0105593361,1.0,1,"High transaction to income ratio, High transaction to occupation median ratio. Top features: high income, high sum_amt_total, high channel_debit_volume, high txn_volume_vs_occupation_median"
+SYNID0105595584,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105597649,0.0,0,Top features: low income
+SYNID0105605898,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105626251,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105644266,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105655298,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105656453,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105671628,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105685244,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105698019,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105699266,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105703083,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0105710647,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105715503,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105741023,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0105759255,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low txn_volume_vs_occupation_median"
+SYNID0105764587,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105773088,0.0,0,"Top features: low sum_amt_total, low txn_volume_vs_occupation_median"
+SYNID0105783650,0.0,0,"Top features: low sum_amt_total, low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0105810138,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105817345,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105828735,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0105831377,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0105852403,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105860180,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105896268,0.0,0,
+SYNID0105914264,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105926152,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105947382,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105971638,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105971716,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0105974717,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105976167,0.0,0,"Top features: low income, low age"
+SYNID0105978169,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0105985656,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0105988473,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106000448,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106001660,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106002962,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106022980,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0106033773,0.0,0,
+SYNID0106048900,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106053941,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106070984,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106129658,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0106130647,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0106141683,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0106141714,0.0,0,Top features: low income
+SYNID0106147025,0.0,0,Top features: low income
+SYNID0106165905,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0106166086,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0106194127,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0106201317,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106214725,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106222900,0.0,0,Top features: low channel_credit_volume
+SYNID0106232264,0.0,0,Top features: low income
+SYNID0106240762,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0106244380,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106247521,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume"
+SYNID0106248189,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106249610,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0106293880,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0106303111,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0106308721,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106318770,0.0,0,Top features: low income
+SYNID0106328139,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106329953,0.0,0,Top features: low income
+SYNID0106340872,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106342705,0.0,0,Structuring. Top features: low income
+SYNID0106344327,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0106357306,0.0,0,Top features: low channel_credit_volume
+SYNID0106390012,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106394865,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106402016,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106428660,0.0,0,
+SYNID0106444253,0.0,0,Top features: low n_txn_total
+SYNID0106452716,0.0,0,Top features: low income
+SYNID0106462825,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106469074,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0106490184,0.0,0,Top features: low income
+SYNID0106500268,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0106509099,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106518706,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106523980,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106537127,0.0,0,Top features: low income
+SYNID0106538257,0.0,0,Top features: low income
+SYNID0106542854,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106548077,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106549799,0.0,0,"Top features: low sum_amt_total, low txn_volume_vs_occupation_median"
+SYNID0106552959,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106553841,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106554902,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106564366,0.0,0,Top features: low income
+SYNID0106572779,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0106574716,0.0,0,"Top features: low income, low n_txn_total, low age"
+SYNID0106605764,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106617015,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106623637,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106635947,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106641837,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106645451,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106652309,0.0,1,"High transaction to income ratio. Top features: high income, high sum_amt_total, high channel_credit_volume"
+SYNID0106653697,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0106661715,0.0,0,Top features: low income
+SYNID0106664724,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0106671718,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106695141,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106713726,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106716678,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106717778,0.0,1,"High wire transfers, Frequent wire transfers. Top features: high median_amt_wire, high wire_ratio, high age"
+SYNID0106724091,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106732965,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106764245,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0106780702,0.0,0,Top features: low income
+SYNID0106823538,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106825796,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106826296,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0106833741,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106836328,0.0,0,Top features: low income
+SYNID0106838129,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0106862202,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106871228,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106885037,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0106894557,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0106917375,0.0,0,Top features: low income
+SYNID0106918325,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106922465,0.0,0,Top features: low income
+SYNID0106952086,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0106977495,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0106991545,0.0,0,Top features: low income
+SYNID0107000956,0.0,0,Top features: low channel_credit_volume
+SYNID0107007068,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107010958,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107012183,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0107019000,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107026206,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107027836,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0107035247,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107043376,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0107058218,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0107066464,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107082171,0.0,0,
+SYNID0107087610,0.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0107103205,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107134431,0.0,0,
+SYNID0107141408,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107145869,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0107159615,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107162254,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107169680,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107169985,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0107178242,0.0,0,Structuring. Top features: low income
+SYNID0107183018,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107185782,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0107202512,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107204407,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107228791,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107252084,0.0,0,
+SYNID0107286914,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107291566,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107318803,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107334515,1.0,1,"High transaction to occupation median ratio. Top features: high txn_volume_vs_occupation_median, high age"
+SYNID0107335388,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107339124,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107375801,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107403616,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107409175,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107443406,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107446827,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107449488,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0107454374,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0107458311,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107462438,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107464935,1.0,1,"High transaction to income ratio, High transaction to occupation median ratio, High wire transfers, Frequent wire transfers. Top features: high median_amt_wire, high wire_ratio, high income, high txn_volume_vs_occupation_median, high age"
+SYNID0107469897,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0107477605,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107478090,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0107505069,0.0,0,Top features: low income
+SYNID0107509503,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0107511361,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0107511443,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107523153,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107552364,0.0,0,Top features: low income
+SYNID0107563028,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107565904,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0107566475,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107569810,0.0,0,Top features: low income
+SYNID0107587379,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107596396,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0107609207,0.0,0,
+SYNID0107633404,0.0,0,"Top features: low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107643401,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107647547,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107676830,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107677346,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107682697,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0107683006,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107703815,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107707079,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107727889,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0107746772,0.0,0,Top features: low income
+SYNID0107766109,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0107816145,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107824474,0.0,0,Top features: low income
+SYNID0107825951,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107826542,0.0,0,
+SYNID0107828297,0.0,0,Top features: low cv_amt_eft
+SYNID0107832828,1.0,0,"Top features: low income, low channel_credit_volume"
+SYNID0107838303,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107854734,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107888998,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107927723,0.0,0,Top features: low income
+SYNID0107928724,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0107932380,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107945037,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107951126,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0107954373,0.0,0,Top features: low income
+SYNID0107956846,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0107998273,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108006936,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108026818,0.0,0,Top features: low income
+SYNID0108036051,0.0,0,Top features: low income
+SYNID0108041457,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108048502,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0108049300,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108058623,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0108082283,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108085897,0.0,1,"High transaction to income ratio. Top features: high income, high sum_amt_total, high channel_debit_volume, high channel_credit_volume"
+SYNID0108091332,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0108097843,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0108116147,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108117683,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108122730,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108153022,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108158503,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108181100,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0108195889,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0108195914,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0108203153,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108207202,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume"
+SYNID0108209280,0.0,0,Top features: low channel_credit_volume
+SYNID0108220654,0.0,0,Top features: low sum_amt_total
+SYNID0108249774,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108253417,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108259070,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108295427,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108310722,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108321024,0.0,0,"Top features: low sum_amt_total, low txn_volume_vs_occupation_median"
+SYNID0108325078,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108328199,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108335542,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108403402,0.0,0,
+SYNID0108413511,0.0,0,Structuring. Top features: low income
+SYNID0108423299,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108428066,0.0,0,Top features: low channel_credit_volume
+SYNID0108437250,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0108474206,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108484204,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108485394,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108487243,0.0,0,Top features: low income
+SYNID0108509674,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0108530587,0.0,0,
+SYNID0108551570,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108559180,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108582985,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0108589834,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108589950,0.0,0,Top features: low income
+SYNID0108619908,0.0,0,"Top features: low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108623675,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0108623691,0.0,0,Top features: low income
+SYNID0108626578,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0108631113,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108634903,0.0,0,Top features: low income
+SYNID0108646125,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108661542,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0108671357,0.0,0,Top features: low income
+SYNID0108676505,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108682306,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108683646,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108687207,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108696301,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108706777,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108713326,0.0,0,Top features: low income
+SYNID0108730048,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0108740866,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108747866,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0108759141,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108769714,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108772273,0.0,0,Top features: low income
+SYNID0108796379,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108820966,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0108843346,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108850119,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0108881995,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108894156,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108895446,0.0,0,Top features: low income
+SYNID0108916391,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108937282,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0108944932,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108958094,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108962182,0.0,0,Top features: low income
+SYNID0108970515,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0108974294,0.0,0,Top features: low income
+SYNID0108996903,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0109007572,0.0,0,Top features: low income
+SYNID0109021852,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0109031720,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total"
+SYNID0109032921,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109052526,0.0,0,"Top features: low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0109066724,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109070767,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109077808,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109083503,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0109106739,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109111562,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109114621,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109116433,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109130542,0.0,0,
+SYNID0109156897,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109163412,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109164594,0.0,0,"Top features: low sum_amt_total, low n_txn_total"
+SYNID0109164999,0.0,0,"Top features: low income, low sum_amt_total, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109166911,0.0,0,
+SYNID0109173381,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109180244,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109183244,0.0,0,"Top features: low income, low channel_debit_volume, low channel_credit_volume"
+SYNID0109190802,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109195398,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109212463,0.0,0,Top features: low income
+SYNID0109214068,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume"
+SYNID0109214779,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median, not satisfied is_unemployed"
+SYNID0109220856,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109221876,0.0,0,Top features: low income
+SYNID0109229186,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109235555,0.0,0,Top features: low income
+SYNID0109238534,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109248069,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109291379,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109294524,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109297928,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109300258,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0109302306,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109305223,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0109319576,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109324046,0.0,0,Top features: low income
+SYNID0109328399,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109337075,0.0,0,Top features: low income
+SYNID0109338038,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109350359,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0109355946,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109357499,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109367637,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0109375742,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109379458,0.0,0,Top features: low income
+SYNID0109419019,0.0,0,Top features: low income
+SYNID0109466986,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109471701,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109473923,0.0,0,"Top features: low income, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109474572,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109480928,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109483662,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0109503355,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0109505596,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109510794,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109512808,0.0,0,Top features: low txn_volume_vs_occupation_median
+SYNID0109514508,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109520194,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109531915,0.0,0,"Top features: low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109547550,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109575397,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109578308,0.0,0,"Top features: low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109583272,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109602889,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109621352,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109633929,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109640764,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109670205,0.0,0,"Top features: low sum_amt_total, low channel_debit_volume, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109693301,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109693460,0.0,0,"Top features: low income, low n_txn_total"
+SYNID0109700446,0.0,0,Top features: low income
+SYNID0109708181,0.0,0,
+SYNID0109764965,0.0,0,Top features: low income
+SYNID0109776271,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109776539,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109787636,0.0,0,"Top features: low income, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109789733,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109810344,0.0,0,"Top features: low income, low cv_amt_eft, low txn_volume_vs_occupation_median"
+SYNID0109823163,0.0,0,"Top features: low sum_amt_total, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109841178,0.0,0,Top features: low income
+SYNID0109868775,0.0,0,"Top features: low income, low cv_amt_eft"
+SYNID0109892016,0.0,0,"Top features: low income, low channel_credit_volume, low n_txn_total, low txn_volume_vs_occupation_median"
+SYNID0109911121,0.0,0,Top features: low income
+SYNID0109929699,0.0,0,"Top features: low channel_credit_volume, low txn_volume_vs_occupation_median"
+SYNID0109930500,0.0,0,Top features: low income
+SYNID0109980400,0.0,0,"Top features: low income, low txn_volume_vs_occupation_median"
+SYNID0109994236,0.0,0,Top features: low channel_credit_volume
+SYNID0109995422,0.0,0,Top features: low channel_credit_volume
+SYNID0109996010,0.0,0,"Top features: low sum_amt_total, low channel_credit_volume, low txn_volume_vs_occupation_median"
